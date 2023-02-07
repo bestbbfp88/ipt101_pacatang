@@ -8,12 +8,8 @@
  - Step 1 : Search GITBASH
  - Step 2 : Download GITBASH
  - Step 3 : Install
-
+ 
 ## Entry Section
  - To make an entry press 20
  - To exit press :wq
  - git commit
-
-## MySql Command
- - CREATE DATABASE
- - CREATE TABLE
