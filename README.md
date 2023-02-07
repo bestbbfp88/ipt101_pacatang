@@ -5,5 +5,7 @@
 ## Sample Code
 `printf("Hello World");`
 ## How to Install
-* Access ME
+ - Step 1 : Search GITBASH
+ - Step 2 : Download GITBASH
+ - Step 3 : Install
 
