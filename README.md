@@ -13,3 +13,5 @@
  - To make an entry press 20
  - To exit press :wq
  - git commit
+
+## Print Hello World
