@@ -16,7 +16,4 @@
 
 ## Print Hello World
 
-## Feature 2
- - This is about us
-## Feature 1
- - This is new car
+## This is the first commit
