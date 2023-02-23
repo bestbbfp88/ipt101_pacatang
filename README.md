@@ -16,5 +16,10 @@
 
 ## Print Hello World
 
+<<<<<<< HEAD
 ## Feature 2
  - This is about us
+=======
+## Feature 1
+ - This is new car
+>>>>>>> car-new
