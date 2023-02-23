@@ -15,3 +15,6 @@
  - git commit
 
 ## Print Hello World
+
+## Feature 2
+ - This is about us
