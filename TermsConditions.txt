@@ -1,0 +1,21 @@
+					           Terms & Conditions
+					   Student Record Information System
+
+       This Program is used only for keeping the records of the Student. This may contain personal information of the 
+student which is protected by law. The data in this application is secured and shall not be deleted once inputted for 
+history purposes.
+
+ABOUT THIS PROGRAM
+
+- The data in this application can be tampered but shall be recorded in history
+- All data are stored in a permanent data storage, deletion of files might result in data loss
+- The user is prohibited from tampering with data through files, as it might result in data loss
+- Data loss in this program due to the recklessness of the user shall not be protected by user rights in this program
+
+USER CONDITIONS
+
+- This program is used only for professional use
+- Malicious activity in this program can be reported to the developer
+- User has the right to put any data in this program
+- User is prohibited in tampering the source file, it might result to program error
+  
