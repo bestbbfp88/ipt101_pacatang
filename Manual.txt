@@ -1,0 +1,38 @@
+					                Manual
+					   Student Record Information System
+
+How to use this program?
+
+Entry:
+	  - For the first time user you are encourage to read this manual
+	  - You cannot see this manual on the start up page if you have already read this
+	  - You can also see this manual in the menu
+	  - You must have the Terms and Conditions File, this will serve as your licensed key to open this program
+
+Main Menu:
+
+         * You are not allowed to put an invalid entry in the choices given
+	  * For the first-time user you can only select the "Enroll Student"
+
+Enroll Student:
+
+	  * Input all necessary details that were being asked
+	  * You are not allowed to put numbers and special characters like (,;/."' and many more) except for birthday 
+         and contact number 
+	
+Modify Student:
+
+	  * You are not allowed to put an invalid entry for its choice
+	  * You cannot have the functionality of "Enroll Existing Student" unless you unenroll at least 1 student
+
+Display Information:
+ 
+	  * This will display the information of the students
+         * You cannot open the list of male student if there were no male gender, same as the list of female
+	  * You cannot also open the list of Not Enrolled Student if there were no student un-enrolled
+
+Statistics:
+	
+	  * This will diplay the statistics of the list of students
+Exit:
+ 	  * To exit this whole program press 7
